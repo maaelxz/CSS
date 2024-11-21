@@ -1,0 +1,9 @@
+h1{
+    color: #787878;
+    border: 5px solid red;
+    background-color: black;
+}
+body{
+    background-color: tomato;
+    background-image: url(fundo-texturizado-de-parede-pintada-de-preto_53876-110728.avif);
+}
